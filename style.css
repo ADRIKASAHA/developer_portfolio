@@ -67,7 +67,7 @@ body {
 
 }
 
-..halff-width {
+.halff-width {
 
     width: 50%;
     padding-left: 80px;
@@ -84,4 +84,49 @@ body {
     background-image: linear-gradient(blue, tomato);
     text-shadow: 2px;
     color: whitesmoke;
+}
+
+.thirds {
+    margin-bottom: 70px;
+    margin-top: 10%;
+}
+
+.exprience {
+    padding-left: 40px;
+    font-size: x-large;
+}
+
+.thirdbox {
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.FullStack {
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    box-shadow: 10px 10px 40px rgb(47, 28, 28);
+    border-radius: 8px;
+    border-left: 9px solid tomato;
+
+}
+
+.BabyWeb {
+    width: 50%;
+    padding-left: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px rgb(47, 28, 28);
+    border-radius: 8px;
+    border-left: 9px solid blueviolet;
+}
+
+.footer {
+    text-shadow: 10px 8px 5px  rgb(214, 202, 202);
+    text-align: center;
+    color: rgb(132, 167, 198);
+    padding-top: 50px;
+    margin-top: 5%;
 }
