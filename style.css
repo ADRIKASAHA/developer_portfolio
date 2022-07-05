@@ -50,3 +50,38 @@ body {
     width: 90%;
     height: 90%;
 }
+
+.midb {
+    display: flex;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 70px;
+    margin-top: 10%;
+}
+
+.halff-width h1 {
+    /*padding-top: 5%;*/
+    font-size: xx-large;
+    margin-bottom: 20px;
+
+}
+
+..halff-width {
+
+    width: 50%;
+    padding-left: 80px;
+    padding-right: 20px;
+
+}
+
+.resum {
+    cursor: pointer;
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-image: linear-gradient(blue, tomato);
+    text-shadow: 2px;
+    color: whitesmoke;
+}
